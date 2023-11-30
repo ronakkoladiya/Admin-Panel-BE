@@ -1,0 +1,17 @@
+[
+    {
+        "name": "employees"
+    },
+    {
+        "name": "manager"
+    },
+    {
+        "name": "cto"
+    },
+    {
+        "name": "ceo"
+    },
+    {
+        "name": "hr"
+    }
+]
